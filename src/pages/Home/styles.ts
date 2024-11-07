@@ -15,7 +15,7 @@ export const HomeContainer = styled.main`
 `
 
 export const FormContainer = styled.div`
-    width: 100%;
+    width: 60%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -89,7 +89,7 @@ export const Separator = styled.div`
 
 
 export const StartCountdownButton = styled.button`
-    width: 100%;
+    width: 60%;
     border: 0;
     padding: 1rem;
     border-radius: 8px;
