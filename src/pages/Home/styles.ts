@@ -69,6 +69,7 @@ export const CountdownContainer = styled.div`
 
     display: flex;
     gap: 1rem;
+    font-weight: bold;
 
     span {
         background-color: ${(props) => props.theme['gray-700']};
