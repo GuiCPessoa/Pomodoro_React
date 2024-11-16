@@ -39,7 +39,7 @@ interface CyclesContextProviderProps {
     children: ReactNode
 }
 
-export function CyclesContextProvider({ children }) {
+export function CyclesContextProvider({ children }: CyclesContextProviderProps) {
     const [cycles, setCycles] = useState<Cycle[]>([])
     const [activeCycleId, setActiveCycleId] = useState<string | null>(null)
     const [amountSecondsPassed, setAmountSecondsPassed] = useState(0)
@@ -74,8 +74,6 @@ export function CyclesContextProvider({ children }) {
         setCycles((state) => [...state, newCycle])
         setActiveCycleId(id)
         setAmountSecondsPassed(0)
-
-        reset();
         
     }
 
@@ -105,7 +103,7 @@ export function CyclesContextProvider({ children }) {
             createNewCycle,
             interruptCurrentCycle}}>
 
-            {children}
+        {children}
 
         </CyclesContext.Provider>
     )
