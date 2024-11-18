@@ -1,7 +1,8 @@
 # 🍅 Pomodoro Timer 
 This project is a Pomodoro timer developed in React with TypeScript as part of a challenge proposed by Rocketseat. The goal is to create an application that assists with time management and productivity by using the Pomodoro technique to divide work into focused time intervals, followed by short breaks.
 
-
+## 🕹️ Deploy Vercel:
+Follow the link to use the Pomodoro Timer: https://pomodorotimer-gilt.vercel.app
 
 ## :rocket: Technologies Used 
 <div align="center">
@@ -31,4 +32,6 @@ This project is a Pomodoro timer developed in React with TypeScript as part of a
  
 ## 📚 Learning
 This project was very challenging due to its size and complexity. While developing this project, I learned important concepts such as Styled Components, which allows the use of CSS within JavaScript in a format similar to React, adding many functionalities to the application's styling. I also learned about Prop Drilling and how to use the Context API, enabling information sharing among multiple components at the same time. Additionally, I learned how to use useReducer, which is useful for storing more complex information that requires many lines of code to modify.
+
+Follow the link to use the Pomodoro Timer: https://pomodorotimer-gilt.vercel.app
 
