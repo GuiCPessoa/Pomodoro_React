@@ -25,16 +25,10 @@ Follow the link to use the Pomodoro Timer: https://pomodorotimer-gilt.vercel.app
 
 ## 📷 Project Preview
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/b43b6edb-a560-44ff-850f-d3b9a0951daf" alt="Project Preview" height="300"/></td>
-      <td><img src="https://github.com/user-attachments/assets/e1093dc5-073e-4579-af41-08199c3fa62d" alt="Project Preview" height="300"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/07629fc6-f6f6-4eab-8e49-a211cc5065ad" alt="Project Preview" height="300"/></td>
-      <td><img src="https://github.com/user-attachments/assets/9098daa6-64e4-4ebb-9e9f-0c32fff8034f" alt="Project Preview" height="300"/></td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/b43b6edb-a560-44ff-850f-d3b9a0951daf" alt="Project Preview" height="300"/>
+  <img src="https://github.com/user-attachments/assets/e1093dc5-073e-4579-af41-08199c3fa62d" alt="Project Preview" height="300"/>
+  <img src="https://github.com/user-attachments/assets/07629fc6-f6f6-4eab-8e49-a211cc5065ad" alt="Project Preview" height="300"/>
+  <img src="https://github.com/user-attachments/assets/9098daa6-64e4-4ebb-9e9f-0c32fff8034f" alt="Project Preview" height="300"/>
 </p>
  
 ## 📚 Learning
