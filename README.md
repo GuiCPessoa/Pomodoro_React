@@ -25,10 +25,17 @@ Follow the link to use the Pomodoro Timer: https://pomodorotimer-gilt.vercel.app
 
 ## 📷 Project Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b43b6edb-a560-44ff-850f-d3b9a0951daf" alt="Project Preview" height="300"/>
-  <img src="https://github.com/user-attachments/assets/e1093dc5-073e-4579-af41-08199c3fa62d" alt="Project Preview" height="300"/>
-  <img src="https://github.com/user-attachments/assets/07629fc6-f6f6-4eab-8e49-a211cc5065ad" alt="Project Preview" height="300"/>
-  <img src="https://github.com/user-attachments/assets/9098daa6-64e4-4ebb-9e9f-0c32fff8034f" alt="Project Preview" height="300"/>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b43b6edb-a560-44ff-850f-d3b9a0951daf" alt="Project Preview" height="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/e1093dc5-073e-4579-af41-08199c3fa62d" alt="Project Preview" height="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/07629fc6-f6f6-4eab-8e49-a211cc5065ad" alt="Project Preview" height="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/9098daa6-64e4-4ebb-9e9f-0c32fff8034f" alt="Project Preview" height="300"/></td>
+    </tr>
+  </table>
+</p>
  
 ## 📚 Learning
 This project was very challenging due to its size and complexity. While developing this project, I learned important concepts such as Styled Components, which allows the use of CSS within JavaScript in a format similar to React, adding many functionalities to the application's styling. I also learned about Prop Drilling and how to use the Context API, enabling information sharing among multiple components at the same time. Additionally, I learned how to use useReducer, which is useful for storing more complex information that requires many lines of code to modify.
