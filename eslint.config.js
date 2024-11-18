@@ -4,6 +4,7 @@ import reactHooks from 'eslint-plugin-react-hooks';
 import reactRefresh from 'eslint-plugin-react-refresh';
 import { configs as tsConfigs } from '@typescript-eslint/eslint-plugin';
 
+
 export default {
   ignores: ['dist'],
   extends: [
